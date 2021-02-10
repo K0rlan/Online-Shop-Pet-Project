@@ -13,6 +13,7 @@ struct Constants {
     static let tastyRoseColor = UIColor(red: 234/255, green: 31/255, blue: 77/255, alpha: 1)
     static let smokieRedColor = UIColor(red: 197/255, green: 21/255, blue: 46/255, alpha: 1)
     static let whiteMirrorColor = UIColor(red: 251/255, green: 251/255, blue: 251/255, alpha: 1)
+    static let logo = UIImage(named: "cube")
     
  }
 extension UIButton {

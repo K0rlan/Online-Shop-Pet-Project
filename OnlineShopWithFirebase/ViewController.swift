@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     lazy var logoImageView: UIImageView = {
         let imageView = UIImageView()
         imageView.contentMode = .scaleAspectFit
-        imageView.image = UIImage(named: "cube")
+        imageView.image = Constants.logo
         return imageView
     }()
     
