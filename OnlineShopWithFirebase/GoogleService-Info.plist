@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>107312722689-a3ti33tb1vltnafn7f4g73thlbt73mli.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.107312722689-a3ti33tb1vltnafn7f4g73thlbt73mli</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFe1VJPcxkHpL-l9xuqlvXAwzF2lbe4xI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>107312722689</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>koko.OnlineShopWithFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>authproject-2894a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authproject-2894a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:107312722689:ios:99ebcfafa6cb44405c6100</string>
+</dict>
+</plist>
